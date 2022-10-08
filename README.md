@@ -5,7 +5,7 @@ Tenho como projeto principal a criação de uma app voltada para um restaurante.
 
 [Inspiração](https://pt.goodbarber.com/blog/como-criar-um-app-em-7-passos-faceis-a864/)
 
-Composição-de-App-Projeto-Alpha 
+Composição-de-App-Projeto-Alpha (18-07-2022)
 
 1- Variedade de produtos 
 
@@ -25,7 +25,7 @@ Composição-de-App-Projeto-Alpha
 
 9- App vai ter pratos selecionados por dia e datas especiais.
 
-Composição-de-App-Projeto-Beta 
+Composição-de-App-Projeto-Beta  (10-06-2022)
 
 1- Gerenciamento de produção Sincronizar e organizar arquivos duplicados.
 
